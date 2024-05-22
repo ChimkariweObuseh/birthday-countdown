@@ -5,8 +5,8 @@ const canvasC = document.getElementById('c');
 const confettii = document.getElementById('confetti');
 
 const config = {
-  birthdate: 'Feb 19, 2024 19:00:00',
-  name: 'MUMMY!'
+  birthdate: 'May 23, 2024 00:00:00',
+  name: 'ME!'
 };
 
 function hideEverything() {
