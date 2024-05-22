@@ -56,7 +56,7 @@ li span {
   z-index: 10;
 }
 .giftbox > div {
-  background: #F0386B;
+  background: #47f038;
   position: absolute;
   box-shadow: 5px 10px 18px rgba(0, 0, 0, 0.4);
 }
@@ -67,7 +67,7 @@ li span {
 }
 .giftbox:after {
   position: absolute;
-  color: #EEEBD0;
+  color: #d6ed98;
   width: 100%;
   left: 0;
   bottom: 0;
@@ -85,7 +85,7 @@ li span {
   left: 50%;
   width: 50px;
   transform: translateX(-50%);
-  background: #EEEBD0;
+  background: #d6ed98;
 }
 .giftbox .cover > div {
   position: absolute;
@@ -102,7 +102,7 @@ li span {
   width: 100%;
   height: 100%;
   content: "";
-  box-shadow: inset 0 0 0 15px #EEEBD0;
+  box-shadow: inset 0 0 0 15px #d6ed98;
   border-radius: 30px;
   transform-origin: 50% 100%;
 }
@@ -123,7 +123,7 @@ li span {
   height: 100%;
   left: 50%;
   transform: translateX(-50%);
-  background: #EEEBD0;
+  background: #d6ed98;
 }
 .giftbox .box:after {
   width: 100%;
