@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 const confettii = document.getElementById('confetti');
 
 const config = {
-  birthdate: 'May 22, 2024 00:00:00',
+  birthdate: 'May 23, 2024 00:00:00',
   name: 'ME!'
 };
 
