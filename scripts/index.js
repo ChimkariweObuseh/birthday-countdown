@@ -492,7 +492,7 @@ x = setInterval(function() {
       confettii.style.backgroundColor = 'transparent';
       confettii.style.zIndex = canvasC.style.zIndex - 0.01;
       canvasC.style.backgroundColor = 'transparent';
-      document.body.style.background = '#EBB3A9';
+      document.body.style.background = '#9beb59';
       setTimeout(anim, 1500);
     }
 
